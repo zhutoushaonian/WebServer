@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/httpserver.dir/buffer.cpp.o CMakeFiles/httpserver.dir/http_conn.cpp.o CMakeFiles/httpserver.dir/locker.cpp.o CMakeFiles/httpserver.dir/lst_timer.cpp.o CMakeFiles/httpserver.dir/server.cpp.o  -o ../../bin/httpserver  -lpthread 

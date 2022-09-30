@@ -1,0 +1,5 @@
+/home/luhuitong/CmakeHttpServer/bulid/CMakeFiles/rebuild_cache.dir
+/home/luhuitong/CmakeHttpServer/bulid/CMakeFiles/edit_cache.dir
+/home/luhuitong/CmakeHttpServer/bulid/src/CMakeFiles/rebuild_cache.dir
+/home/luhuitong/CmakeHttpServer/bulid/src/CMakeFiles/edit_cache.dir
+/home/luhuitong/CmakeHttpServer/bulid/src/CMakeFiles/httpserver.dir

@@ -1,3 +1,4 @@
+/*-------------------------*/
 #include "buffer.h"
 #include <cstring>
 #include <unistd.h> // write
